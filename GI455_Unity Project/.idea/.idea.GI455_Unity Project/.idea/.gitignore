@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.GI455_Unity Project.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\weerawut\Desktop\GI455\GI455_1620705150\GI455_Unity Project\.idea\.idea.GI455_Unity Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
